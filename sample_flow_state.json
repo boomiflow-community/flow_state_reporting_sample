@@ -389,55 +389,6 @@
    "storeId":null,
    "values":[
       {
-         "contentType":null,
-         "contentValue":"https://flow.manywho.com",
-         "objectData":null,
-         "valueElementDeveloperName":null,
-         "valueElementId":"292d8292-44b4-44b6-af10-75fd0a7639ce"
-      },
-      {
-         "contentType":null,
-         "contentValue":"fddef451-6044-457e-8aad-09efd1335475",
-         "objectData":null,
-         "valueElementDeveloperName":null,
-         "valueElementId":"8408f1b5-25f1-45a3-90bb-9ae82ef9fe66"
-      },
-      {
-         "contentType":null,
-         "contentValue":"19f31de1-7efe-454b-bcd5-a6a7829e579b",
-         "objectData":null,
-         "valueElementDeveloperName":null,
-         "valueElementId":"e97c396c-7837-4f82-a366-df19adb318f5"
-      },
-      {
-         "contentType":null,
-         "contentValue":"https://flow.manywho.com/c0284710-c1da-46b5-b12c-bdbc92657577/play/default/?flow-id=fddef451-6044-457e-8aad-09efd1335475",
-         "objectData":null,
-         "valueElementDeveloperName":null,
-         "valueElementId":"4b39694f-aee0-400d-b0e0-26f735b5177b"
-      },
-      {
-         "contentType":"ContentString",
-         "contentValue":"https://flow.manywho.com/c0284710-c1da-46b5-b12c-bdbc92657577/play/default/?join=8e68b740-57d3-4164-860f-1bf41d7a07f7",
-         "objectData":null,
-         "valueElementDeveloperName":"$JoinUri",
-         "valueElementId":"e2063196-3c75-4388-8b00-1005b8cd59ad"
-      },
-      {
-         "contentType":null,
-         "contentValue":"00000000-0000-0000-0000-000000000000",
-         "objectData":null,
-         "valueElementDeveloperName":null,
-         "valueElementId":"a93f2f14-b765-48f5-8cdd-650d10410d1e"
-      },
-      {
-         "contentType":null,
-         "contentValue":"8e68b740-57d3-4164-860f-1bf41d7a07f7",
-         "objectData":null,
-         "valueElementDeveloperName":null,
-         "valueElementId":"77b15ed6-5cd2-44fe-b62d-8ce6a4ebf0e0"
-      },
-      {
          "contentType":"ContentList",
          "contentValue":null,
          "objectData":[
